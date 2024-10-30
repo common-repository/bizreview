@@ -1,0 +1,383 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BizReview - Business and google Place Review WordPress "
+"Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-13 05:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.1"
+
+#. 1: Elementor
+#: view/elementor-widgets/elementor-widget.php:209
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. 1: Elementor 2: Required Elementor version
+#. 1: PHP 2: Required PHP version
+#: view/elementor-widgets/elementor-widget.php:229
+#: view/elementor-widgets/elementor-widget.php:247
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: view/widgets/widget-google-review.php:183
+#: view/widgets/widget-google-review.php:193
+#: view/elementor-widgets/widgets/google-review.php:109
+#: view/elementor-widgets/widgets/google-review.php:125
+msgid "1"
+msgstr ""
+
+#: view/widgets/widget-google-review.php:184
+#: view/widgets/widget-google-review.php:194
+#: view/elementor-widgets/widgets/google-review.php:110
+#: view/elementor-widgets/widgets/google-review.php:126
+msgid "2"
+msgstr ""
+
+#: view/widgets/widget-google-review.php:185
+#: view/widgets/widget-google-review.php:195
+#: view/elementor-widgets/widgets/google-review.php:111
+#: view/elementor-widgets/widgets/google-review.php:127
+msgid "3"
+msgstr ""
+
+#: view/widgets/widget-google-review.php:186
+#: view/widgets/widget-google-review.php:196
+#: view/elementor-widgets/widgets/google-review.php:112
+#: view/elementor-widgets/widgets/google-review.php:128
+msgid "4"
+msgstr ""
+
+#: view/widgets/widget-google-review.php:187
+#: view/widgets/widget-google-review.php:197
+#: view/elementor-widgets/widgets/google-review.php:113
+#: view/elementor-widgets/widgets/google-review.php:129
+msgid "5"
+msgstr ""
+
+#: view/widgets/widget-google-review.php:34
+msgid "Add google review widget."
+msgstr ""
+
+#: inc/functions.php:213
+msgid "Address: "
+msgstr ""
+
+#: inc/functions.php:174 inc/functions.php:236
+#, php-format
+msgid "Based on %s reviews"
+msgstr ""
+
+#: admin/admin.php:31
+msgid "Biz Review"
+msgstr ""
+
+#: admin/admin.php:32
+msgid "Biz Review Settings"
+msgstr ""
+
+#: view/elementor-widgets/elementor-widget.php:230
+#: view/elementor-widgets/elementor-widget.php:248
+msgid "BizReview"
+msgstr ""
+
+#. Name of the plugin
+msgid "BizReview - Business and google Place Review WordPress Plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Bizreview Business and google Place Review WordPress Plugin for display "
+"Google Reviews & Ratings to increase user confidence, SEO and traffic of "
+"your Business."
+msgstr ""
+
+#: view/elementor-widgets/elementor-widget.php:265
+msgid "BizReview Review Elements"
+msgstr ""
+
+#: view/elementor-widgets/elementor-widget.php:210
+msgid "BizReview WordPress Plugin"
+msgstr ""
+
+#: inc/functions.php:52 inc/functions.php:53
+msgid "Categories"
+msgstr ""
+
+#: view/elementor-widgets/elementor-widget.php:102
+#: view/elementor-widgets/elementor-widget.php:118
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: admin/admin.php:150
+msgid "Copy"
+msgstr ""
+
+#: admin/admin.php:85 admin/admin.php:118 inc/functions.php:39
+msgid "Custom Review"
+msgstr ""
+
+#: inc/functions.php:38
+msgid "Custom Reviews"
+msgstr ""
+
+#: view/elementor-widgets/elementor-widget.php:211
+#: view/elementor-widgets/elementor-widget.php:231
+msgid "Elementor"
+msgstr ""
+
+#: admin/admin.php:83
+msgid "Facebook Review"
+msgstr ""
+
+#: view/widgets/widget-google-review.php:204
+#, php-format
+msgid "Find google %s place id %s"
+msgstr ""
+
+#. Author of the plugin
+msgid "FixoLab"
+msgstr ""
+
+#: admin/admin.php:81
+msgid "General"
+msgstr ""
+
+#: admin/admin.php:149
+msgid "Generate"
+msgstr ""
+
+#: admin/admin.php:82 admin/admin.php:113 admin/admin.php:117
+#: view/widgets/widget-google-review.php:141
+#: view/elementor-widgets/widgets/google-review.php:33
+msgid "Google Review"
+msgstr ""
+
+#. Widget name will appear in UI
+#: view/widgets/widget-google-review.php:31
+msgid "Google Review [BizReview]"
+msgstr ""
+
+#: view/elementor-widgets/widgets/google-review.php:53
+msgid "Google Review Settings"
+msgstr ""
+
+#: admin/admin.php:123 view/elementor-widgets/widgets/google-review.php:96
+msgid "Hide"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://fixolab.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wp-plugins.themeatelier.net/bizreview/"
+msgstr ""
+
+#: view/elementor-widgets/widgets/google-review.php:104
+msgid "Max Rows"
+msgstr ""
+
+#: view/widgets/widget-google-review.php:191
+msgid "Max Rows:"
+msgstr ""
+
+#: view/elementor-widgets/widgets/google-review.php:120
+msgid "Min Rating"
+msgstr ""
+
+#: view/widgets/widget-google-review.php:181
+msgid "Minimum Rating:"
+msgstr ""
+
+#: inc/functions.php:219
+msgid "Phone Number: "
+msgstr ""
+
+#: view/elementor-widgets/elementor-widget.php:249
+msgid "PHP"
+msgstr ""
+
+#: view/elementor-widgets/widgets/google-review.php:58
+msgid "Place ID"
+msgstr ""
+
+#: view/widgets/widget-google-review.php:177
+msgid "Place ID:"
+msgstr ""
+
+#: admin/admin.php:121 view/elementor-widgets/widgets/google-review.php:92
+msgid "Place Info"
+msgstr ""
+
+#: view/widgets/widget-google-review.php:201
+msgid "Place Info Show:"
+msgstr ""
+
+#: inc/meta-fields/tatcmf-config.php:85
+msgid "Platform"
+msgstr ""
+
+#: inc/functions.php:180 view/widgets/widget-google-review.php:126
+msgid "Powered by google."
+msgstr ""
+
+#: inc/meta-fields/tatcmf-config.php:73
+msgid "Rating"
+msgstr ""
+
+#: inc/meta-fields/tatcmf-config.php:95
+msgid "Review Content"
+msgstr ""
+
+#: inc/meta-fields/tatcmf-config.php:68
+msgid "Reviewe Date"
+msgstr ""
+
+#: inc/meta-fields/tatcmf-config.php:49
+msgid "Reviewe Url"
+msgstr ""
+
+#: inc/meta-fields/tatcmf-config.php:63
+msgid "Reviewer Image"
+msgstr ""
+
+#: inc/meta-fields/tatcmf-config.php:44
+msgid "Reviewer Name"
+msgstr ""
+
+#: view/elementor-widgets/widgets/google-review.php:153
+msgid "Section Background Color"
+msgstr ""
+
+#: view/elementor-widgets/widgets/google-review.php:146
+msgid "Section Padding Bottom"
+msgstr ""
+
+#: view/elementor-widgets/widgets/google-review.php:139
+msgid "Section Padding Top"
+msgstr ""
+
+#: admin/admin.php:116
+msgid "Select Custom Review Category"
+msgstr ""
+
+#: admin/admin.php:112 inc/meta-fields/tatcmf-config.php:54
+msgid "Select Review Type"
+msgstr ""
+
+#: admin/admin.php:132
+msgid "Select Template Style"
+msgstr ""
+
+#: admin/admin.php:94
+msgid "Settings Saved"
+msgstr ""
+
+#: admin/admin.php:109
+msgid "Shortcode Generator"
+msgstr ""
+
+#: admin/admin.php:122 view/elementor-widgets/widgets/google-review.php:95
+msgid "Show"
+msgstr ""
+
+#: view/elementor-widgets/widgets/google-review.php:67
+msgid "Style"
+msgstr ""
+
+#: admin/admin.php:133 view/elementor-widgets/widgets/google-review.php:72
+msgid "Style 1 (Grid)"
+msgstr ""
+
+#: admin/admin.php:142 view/elementor-widgets/widgets/google-review.php:81
+msgid "Style 10 (Slider)"
+msgstr ""
+
+#: admin/admin.php:143 view/elementor-widgets/widgets/google-review.php:82
+msgid "Style 11 (Slider)"
+msgstr ""
+
+#: admin/admin.php:144 view/elementor-widgets/widgets/google-review.php:83
+msgid "Style 12 (Slider)"
+msgstr ""
+
+#: admin/admin.php:145 view/elementor-widgets/widgets/google-review.php:84
+msgid "Style 13 (Slider)"
+msgstr ""
+
+#: admin/admin.php:146 view/elementor-widgets/widgets/google-review.php:85
+msgid "Style 14 (Slider)"
+msgstr ""
+
+#: admin/admin.php:134 view/elementor-widgets/widgets/google-review.php:73
+msgid "Style 2 (Grid)"
+msgstr ""
+
+#: admin/admin.php:135 view/elementor-widgets/widgets/google-review.php:74
+msgid "Style 3 (Grid)"
+msgstr ""
+
+#: admin/admin.php:136 view/elementor-widgets/widgets/google-review.php:75
+msgid "Style 4 (Grid)"
+msgstr ""
+
+#: admin/admin.php:137 view/elementor-widgets/widgets/google-review.php:76
+msgid "Style 5 (Grid)"
+msgstr ""
+
+#: admin/admin.php:138 view/elementor-widgets/widgets/google-review.php:77
+msgid "Style 6 (Grid)"
+msgstr ""
+
+#: admin/admin.php:139 view/elementor-widgets/widgets/google-review.php:78
+msgid "Style 7 (Grid)"
+msgstr ""
+
+#: admin/admin.php:140 view/elementor-widgets/widgets/google-review.php:79
+msgid "Style 8 (Masonary)"
+msgstr ""
+
+#: admin/admin.php:141 view/elementor-widgets/widgets/google-review.php:80
+msgid "Style 9 (Slider)"
+msgstr ""
+
+#: view/widgets/widget-google-review.php:173
+msgid "Title:"
+msgstr ""
+
+#: view/google-frontend/class-google-review-templates.php:65
+#: view/google-frontend/class-google-review-templates.php:161
+#: view/google-frontend/class-google-review-templates.php:249
+#: view/google-frontend/class-google-review-templates.php:328
+#: view/google-frontend/class-google-review-templates.php:421
+#: view/google-frontend/class-google-review-templates.php:517
+#: view/google-frontend/class-google-review-templates.php:600
+#: view/google-frontend/class-google-review-templates.php:689
+#: view/google-frontend/class-google-review-templates.php:776
+#: view/google-frontend/class-google-review-templates.php:869
+#: view/google-frontend/class-google-review-templates.php:959
+#: view/google-frontend/class-google-review-templates.php:1053
+#: view/google-frontend/class-google-review-templates.php:1144
+#: view/google-frontend/class-google-review-templates.php:1228
+#: view/widgets/widget-google-review.php:103
+msgid "via Google"
+msgstr ""
+
+#: admin/admin.php:84
+msgid "Yelp Review"
+msgstr ""
+
+#: bizreview.php:22
+msgid "You should not access this file directly.!"
+msgstr ""

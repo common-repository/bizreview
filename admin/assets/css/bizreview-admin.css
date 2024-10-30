@@ -1,0 +1,229 @@
+.mt-8 {
+  margin-top: 8px; 
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
+.bizreview-admin-wrap ul.settings-menu {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+.bizreview-admin-wrap ul.settings-menu li {
+  display: inline-block;
+  border: 2px solid #000;
+  padding: 8px 14px;
+  margin: 10px;
+  transition: 0.6s all;
+}
+.bizreview-admin-wrap ul.settings-menu li:hover {
+  background: #000;
+}
+.bizreview-admin-wrap ul.settings-menu li:hover a {
+  color: #fff;
+}
+.bizreview-admin-wrap ul.settings-menu li a {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+  color: #000;
+}
+.input-control {
+  min-width: 300px;
+  padding: 8px;
+  border: 1px solid #e6e6e6;
+  border-radius: 4px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+/* .slideThree */
+.slideThree {
+  width: 80px;
+  height: 26px;
+  background: #333;
+  margin: 20px 0px;
+  position: relative;
+  position: relative;
+  border-radius: 50px;
+  box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.5), 0px 1px 0px rgba(255, 255, 255, 0.2);
+}
+.slideThree span {
+  font: 12px/26px Arial, sans-serif;
+  font-weight: bold;
+  text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.15);
+}
+.slideThree span.after {
+  color: #27ae60;
+  position: absolute;
+  top: 0px;
+  right: 5px;
+}
+.slideThree span.before {
+  color: #000;
+  position: absolute;
+  left: 4px;
+  top: 0px;
+}
+.bizreview-label h5 {
+  margin-bottom: 0px;
+}
+.bizreview-label h5 {
+  font-size: 14px;
+  font-weight: bold;
+}
+.bizreview-field-wrp {
+  margin-top: 8px !important;
+}
+
+/*.slideThree:after {
+  content: 'OFF';
+  color: #000;
+  position: absolute;
+  right: 10px;
+  z-index: 0;
+  font: 12px/26px Arial, sans-serif;
+  font-weight: bold;
+  text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.15);
+}
+.slideThree:before {
+  content: 'ON';
+  color: #27ae60;
+  position: absolute;
+  left: 10px;
+  z-index: 0;
+  font: 12px/26px Arial, sans-serif;
+  font-weight: bold;
+}
+*/
+.slideThree label {
+  display: block;
+  width: 34px;
+  height: 20px;
+  cursor: pointer;
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  z-index: 1;
+  background: #fcfff4;
+  background: linear-gradient(to bottom, #fcfff4 0%, #dfe5d7 40%, #b3bead 100%);
+  border-radius: 50px;
+  transition: all 0.4s ease;
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.3);
+}
+.slideThree input[type=checkbox] {
+  visibility: hidden;
+}
+.slideThree input[type=checkbox]:checked + label {
+  left: 43px;
+}
+
+/* end .slideThree */
+/* .squaredThree */
+.squaredThree {
+  width: 20px;
+  position: relative;
+  margin: 20px 0px;
+}
+.squaredThree label {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to bottom, #222222 0%, #45484d 100%);
+  border-radius: 4px;
+  box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.5), 0px 1px 0px rgba(255, 255, 255, 0.4);
+}
+.squaredThree label:after {
+  content: '';
+  width: 9px;
+  height: 5px;
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  border: 3px solid #fcfff4;
+  border-top: none;
+  border-right: none;
+  background: transparent;
+  opacity: 0;
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+.squaredThree label:hover::after {
+  opacity: 0.3;
+}
+.squaredThree input[type=checkbox] {
+  visibility: hidden;
+}
+.squaredThree input[type=checkbox]:checked + label:after {
+  opacity: 1;
+}
+
+/* end .squaredThree */
+.bizr-active {
+  display: block;
+}
+.bizr-hide {
+  display: none;
+}
+/**
+ *  Shortcode Generator
+ */
+
+.wp-admin .scode-generator select {
+  vertical-align: inherit;
+}
+.button-area {
+  margin-top: 15px;
+}
+#scode-copy,
+#scodegenerate {
+  border: 2px solid #000;
+  padding: 5px 6px;
+  display: inline-block;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.5s;
+}
+#scode-copy:hover,
+#scodegenerate:hover {
+  background: #000;
+  color: #fff;
+}
+.scode-show p{
+  background-color: #c73434;
+  color: #fff;
+  display: inline-block;
+  padding: 5px 8px;
+}
+.shortcode-generator {
+  background: #f8f8f8;
+  padding: 25px 20px;
+  display: inline-block;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.08);
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.shortcode-generator h2 {
+  margin-top: 0;
+  font-weight: bold;
+}
+
+/**** lite version css ****/
+
+
+.settings-menu li.lite-menu {
+  pointer-events:none; //This makes it not clickable
+  opacity:0.6;         //This grays it out to look disabled
+}
+
+.settings-menu li.lite-menu span {
+  margin-left: 5px;
+  color: red;
+  font-weight: bold;
+}
+.bizreview-get-pro-text{
+  font-weight: bold;
+  color: #27ae60;
+}
